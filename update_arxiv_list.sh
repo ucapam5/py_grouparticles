@@ -1,10 +1,10 @@
-source activate py35
+source activate env/bin/activate
 export PYTHONIOENCODING=utf8
 
 git fetch --all
 git reset --hard origin/master
 
-//anaconda/envs/py35/bin/python create_group_arxiv_html.py 
+/opt/anaconda3/bin/python3 create_group_arxiv_html.py 
 
 git add .
 git commit -m "synced @ $(date)"
