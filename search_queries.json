@@ -84,11 +84,6 @@
      "start": 0    
     },
     {
-    "query": "au:Dervovic_D",
-     "max_entries": 5,
-     "start": 0    
-    },
-    {
     "query": "au:Wossnig_L",
      "max_entries": 5,
      "start": 0    
@@ -99,12 +94,12 @@
      "start": 0    
     },
     {
-      "query": "au:(james+AND+purcell)",
+      "query": "au:(James+AND+purcell)",
       "max_entries": 5,
       "start": 0    
     },
     {
-      "query": "au:(anastasia+AND+moroz)",
+      "query": "au:(Anastasia+AND+moroz)",
       "max_entries": 5,
       "start": 0 
      }
