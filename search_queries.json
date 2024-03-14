@@ -102,5 +102,10 @@
       "query": "au:(Anastasia+AND+moroz)",
       "max_entries": 5,
       "start": 0 
+     },
+     {
+      "query": "au:(Tom+AND+Holden-Dye)",
+      "max_entries": 5,
+      "start": 0 
      }
 ]
